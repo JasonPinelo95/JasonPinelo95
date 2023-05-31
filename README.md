@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Data Engineer
-- 👯 I’m looking to collaborate on Open Source projects to enhance my Data Engineering Skills.
-- 📫 How to reach me: @jasonpinelo on Insta
+- 👯 I like to read about new technologies in the Data Engineering ecosystem.
 - 😄 Pronouns: He/Him They/Them
 - ⚡ Fun fact: I love Philosophy of Language
   
