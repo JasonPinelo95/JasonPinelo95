@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Java Software Engineer
-- 🌱 I’m currently studying Data Engineering at Universidad Politecnica de Yucatan in Yuc, Mexico.
+- 🔭 I’m currently working as a Data Engineer
 - 👯 I’m looking to collaborate on Open Source projects to enhance my Data Engineering Skills.
 - 📫 How to reach me: @jasonpinelo on Insta
 - 😄 Pronouns: He/Him They/Them
