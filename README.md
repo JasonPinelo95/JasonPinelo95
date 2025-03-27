@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Data Engineer
-- 👯 I like to read about new technologies in the Data Engineering ecosystem.
-- 😄 Pronouns: He/Him They/Them
-- ⚡ Fun fact: I love Philosophy of Language
+- 🔭 Making things Even More Effective!
 
 ### Contact
 
